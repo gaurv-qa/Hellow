@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hellow.iml" filepath="$PROJECT_DIR$/.idea/modules/Hellow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hellow_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Hellow_main.iml" group="Hellow" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hellow_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Hellow_test.iml" group="Hellow" />
+    </modules>
+  </component>
+</project>
